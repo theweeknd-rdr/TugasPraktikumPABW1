@@ -83,7 +83,7 @@
           <div class="flex flex-col justify-center items-center h-full bg-black bg-opacity-50 p-6">
             <h2 class="text-white text-2xl font-semibold text-center mb-2">Selamat Datang</h2>
             <p class="text-white text-xl font-semibold text-center">
-              Di Website <br /> Kota Purwokerto
+              Di Website <br /> 
             </p>
           </div>
         </div>
