@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "665d20000000000000000001",
+    "provider_id": "665d00000000000000000002",
+    "title": "Open Jastip Foodcourt Kampus",
+    "description": "Sari sedang menuju foodcourt kampus dan bisa membelikan makanan atau minuman ringan.",
+    "location": "Foodcourt Kampus Utama",
+    "category": "makanan",
+    "status": "active",
+    "deadline": "2026-12-31"
+  },
+  {
+    "_id": "665d20000000000000000002",
+    "provider_id": "665d00000000000000000003",
+    "title": "Open Jastip Fotokopi Dekat Kampus",
+    "description": "Raka menerima titipan print, fotokopi, jilid, dan scan dokumen.",
+    "location": "Fotokopi Sejahtera, Gerbang Timur",
+    "category": "fotokopi",
+    "status": "active",
+    "deadline": "2026-12-31"
+  },
+  {
+    "_id": "665d20000000000000000003",
+    "provider_id": "665d00000000000000000002",
+    "title": "Open Jastip Gramedia BIP Bandung",
+    "description": "Bisa titip buku, alat tulis, map, stabilo, dan perlengkapan kuliah lainnya.",
+    "location": "Gramedia BIP Bandung",
+    "category": "perlengkapan",
+    "status": "active",
+    "deadline": "2026-12-31"
+  },
+  {
+    "_id": "665d20000000000000000004",
+    "provider_id": "665d00000000000000000003",
+    "title": "Open Jastip Minimarket Kampus Lama",
+    "description": "Contoh offer yang sudah ditutup untuk validasi status.",
+    "location": "Minimarket Kampus Lama",
+    "category": "lainnya",
+    "status": "closed",
+    "deadline": "2026-12-31"
+  }
+]

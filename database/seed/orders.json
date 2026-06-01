@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "665d10000000000000000001",
+    "offer_id": "665d20000000000000000001",
+    "buyer_id": "665d00000000000000000001",
+    "provider_id": "665d00000000000000000002",
+    "nama_barang": "Nasi Padang",
+    "kategori": "makanan",
+    "status": "pending",
+    "harga_jasa": 10000,
+    "tanggal": "2026-06-01"
+  },
+  {
+    "_id": "665d10000000000000000002",
+    "offer_id": "665d20000000000000000001",
+    "buyer_id": "665d00000000000000000001",
+    "provider_id": "665d00000000000000000002",
+    "nama_barang": "Es Kopi Susu",
+    "kategori": "makanan",
+    "status": "selesai",
+    "harga_jasa": 8000,
+    "tanggal": "2026-05-30"
+  },
+  {
+    "_id": "665d10000000000000000003",
+    "offer_id": "665d20000000000000000002",
+    "buyer_id": "665d00000000000000000001",
+    "provider_id": "665d00000000000000000003",
+    "nama_barang": "Print Modul Basis Data",
+    "kategori": "fotokopi",
+    "status": "selesai",
+    "harga_jasa": 12000,
+    "tanggal": "2026-05-29"
+  },
+  {
+    "_id": "665d10000000000000000004",
+    "offer_id": "665d20000000000000000003",
+    "buyer_id": "665d00000000000000000001",
+    "provider_id": "665d00000000000000000003",
+    "nama_barang": "Pulpen Hitam dan Map",
+    "kategori": "perlengkapan",
+    "status": "pending",
+    "harga_jasa": 7000,
+    "tanggal": "2026-06-02"
+  }
+]
